@@ -1,1 +1,5 @@
 # Object-Detection
+We will use "SSD-MobileNetv2,SSD-MobileNetv3" famous algorithms
+List of labels to download  "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVlzMnFQTVV2akduVGNpUUVycjhGbmRxbndjQXxBQ3Jtc0trZk41NFRQZE5BWlpHZG4wd01IY2RMYTUyMmZNMDdCc3pBZ1lNVUswSWxHSjRBUm4tQ0k3WHFBcmZtNy1yNkRBMDR1TkRIdG5fLVBlQU5BaVJSR2RZMmN4WEVIeThFMkFRNmtZT05QT0lMMUdhZGlobw&q=https%3A%2F%2Fgithub.com%2Fpjreddie%2Fdarknet%2Fblob%2Fmaster%2Fdata%2Fcoco.names"
+Configuration file "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU9RODNmYUpRSWFQTWdNWWxDQ1I2b1pJVlVad3xBQ3Jtc0tuQlZLU29Wb0Y0TFpWRlRuUENLUUF0RzZBV2JEa3hJaHY1Mm9LdWNINTVMd2FpNHQzR0dWRDJkbEtmbHpCa1BtR0FaaTc0RmEwcWtOd3gzM3ctMFRFVTdxejVyY2N4UGZrc2g0djliS0xoSGFuVi14NA&q=https%3A%2F%2Fgist.github.com%2Fdkurt%2F54a8e8b51beb3bd3f770b79e56927bd7"
+https://github.com/opencv/opencv/wiki/Tensorflow-Object-Detection-API
